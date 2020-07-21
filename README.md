@@ -1,12 +1,10 @@
 ### yeko desu 👋
 
-不太常用 Github，比较菜，不怎么拥抱开源。
+🤔 不太常用 Github，比较菜，不怎么拥抱开源。
 
-希望用自己的方法稍微让世界美好一点点
+🌱 希望用自己的方法稍微让世界美好一点点
 
-喵。
-
-寻求合作，请发邮件 itsyeko@live.com
+📫 寻求合作，请发邮件 itsyeko@live.com
 
 <!--
 **Mastalie/mastalie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
